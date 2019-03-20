@@ -11,3 +11,5 @@ pre-made pastry
 
 my recipies are being added to this new file
 these changes do exists only in the master file but not in the branch file
+new recipies
+added to branch in side spagatte
