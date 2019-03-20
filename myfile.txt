@@ -1,0 +1,3 @@
+I am adding new files
+to check the rebase actions and
+to verify the rebase works accurtely as expected
